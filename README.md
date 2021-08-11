@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wpbt
+- 👋 Hi, I’m Bharat Thapa
 - 👀 I’m mostly interested in WordPress and ReactJS
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on any opensource projects
