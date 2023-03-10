@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Bharat Thapa
 - 👀 I’m mostly interested in WordPress and ReactJS
-- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on any opensource projects
 - 📫 you can reach me using email: admin@bharatt.com.np
 
