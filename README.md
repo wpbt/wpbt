@@ -26,7 +26,7 @@ WordPress & PHP developer focused on building reliable, maintainable plugins and
 
 ### 🌱 Currently
 
-I'm focused on improving my **software engineering skills**, contributing to open-source projects, and learning more about architecture, testing, performance, security, and scalable WordPress development.
+Deepening my understanding of architecture, testing-driven quality, and performance/scalability for WordPress-based web apps
 
 ### 📫 Get in touch
 
