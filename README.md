@@ -1,28 +1,32 @@
-# 👋 Hi, I'm Bharat Thapa
+# 👋 Hi, I'm Bharat
 
-I'm a **WordPress & PHP developer** interested in building reliable, maintainable web applications and plugins.
+WordPress & PHP developer focused on building reliable, maintainable plugins and web applications.
 
-### 🛠️ What I work with
+**My Skillset:**
 
-- **WordPress / PHP** — plugins, custom development, REST API, integrations
-- **JavaScript / React / Node.js / TypeScript** — web applications and modern WordPress development
-- **Databases** — MySQL
-- **Build Tools** — Webpack & esbuild
-- **Containers** — Docker
-- **Version Control** — Git
-
-### 🧪 Testing
-
-- **PHPUnit** — PHP and WordPress testing
-- **Jest** — JavaScript and React testing
+* WordPress
+* Gutenberg
+* Node.js
+* PHP
+* JavaScript
+* TypeScript
+* SQL
+* Technical SEO
+* Core Web Vitals (CWV) optimization
+* PHPUnit, WP_UnitTestCase, Brain Monkey
+* Jest, Playwright
+* HTML / CSS / jQuery / Sass
+* React.js
+* Redux
+* Git & GitHub
+* Docker
+* Webpack / esbuild
+* npm / Composer
+* OOP & Clean Code
 
 ### 🌱 Currently
 
 I'm focused on improving my **software engineering skills**, contributing to open-source projects, and learning more about architecture, testing, performance, security, and scalable WordPress development.
-
-### 🤝 Open Source
-
-I'm always interested in collaborating on **open-source projects**, especially projects related to WordPress, PHP, and web development.
 
 ### 📫 Get in touch
 
